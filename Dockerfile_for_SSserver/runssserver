@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run -it -p 6628-6638:6628-6638 --name ssserver dockerimage:tag /bin/bash

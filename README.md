@@ -1,2 +1,5 @@
 # DockerProject
-include dockerfile 
+include dockerfile:
+
+    ssserver 
+
